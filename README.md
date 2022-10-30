@@ -41,5 +41,19 @@ This image displays at what times/day and genders are most frequently using the 
 
 ## Heatmap by User, Day, and Gender
 ![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Heatmap_By_User%2BDay%2BGender.png)
+This image displays that the male population is a repeat visitor to the CitiBike brand because they have purchased a subscription to the survice. The female population is slightly more subscriber than customer (one off user). Those users who did not disclose a gender are mostly one off customers of CitiBike. Because subsribers make up a large portion of frequent usage and profit, it is important to know when they are using the bikes, why they are using them, and how they are using them.
 
 # Summary
+## Summary of Results
+Based on the data collected from New York users of the CitiBike brand both the angel investors and the two women starting up the company can determine the best location for CitiBike usage, the ideal target market, most common days and times the bikes are used, when to service the bikes, and where proper pick up and drop off locations should be located.
+
+These dashboards and preliminary data should prove substantial to all stakeholders to foster a healthy CitiBike brand in the Des Moines, Iowa area.
+
+## Additional Visualization - Purpose
+It could prove very beneficial to understand why customers and subsribers of all demographics use the CitiBike services? Is it to avoid traffic, visit a friend, carryout arrands, helps those with no vehicles, get exercise, etc. This type of data could be collected by CitiBike companies across the nation through a simple survey at the end of the expeience through the app. Although this data would not be required to use the service, it can help paint a bigger picture of the users of CitiBike.
+
+## Additional Visualization - Age Group by Purpose
+To extend the first additional visualization reccomendation, it could be helpful to tie the purpose of CitiBike users and their age. If majority of all male users (the biggest target market based on data) uses it to run errands and are considered in the senior citizen group (65+ in age), then the company can market towards them to improve their experience with CitiBike. For example, we could:
+- Add baskets to the bikes to hold items to and from errands
+- Put more bikes by doctors offices, pharmacies, and grocery stores
+- Adjust the comfortablity of the bikes seat, handle bars, and height from the ground to accomodate senior citizens
