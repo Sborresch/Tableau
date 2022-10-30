@@ -25,6 +25,7 @@ This image displays the count of bikes that are being used based on time interva
 
 ## Heatmap by Hour and Day
 ![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Heatmap_By_Hour%2BDay.png)
+
 This image displays at what times and days CityBike users are most frequently using the services in NY. According to this data, the most busy usage times are during:
 - Thursdays at 8:00am and between 5:00pm-6:00pm
 - Monday & Tuesdays between 5:00pm-6:00pm
