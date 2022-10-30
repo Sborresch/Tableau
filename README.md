@@ -21,7 +21,25 @@ This image displays the count of bikes that are being used based on time interva
 
 ## Bike Checkout by Hour and Gender
 ![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Bike_Checkout_By_Hour%2BGender.png)
+This image displays the count of bikes that are being used based on time intervals of hour. This data shows nearly every bike ride was under one hour and ultimately lasted between zero and thirty minutes. This is important to understand, as bike transportation is use mostly for a means to an end. From one point to another. From A to B. Therefore, it is vital that we put CitiBike in a location that has many resources (resturants, attractions, shops, etc.) in a centralized location in Des Moines. In addition, this shows that primarily male users rented bikes from CitiBike NY. This could finetune our target market of males users in central Des Moines.
 
+## Heatmap by Hour and Day
+![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Heatmap_By_Hour%2BDay.png)
+This image displays at what times and days CityBike users are most frequently using the services in NY. According to this data, the most busy usage times are during:
+- Thursdays at 8:00am and between 5:00pm-6:00pm
+- Monday & Tuesdays between 5:00pm-6:00pm
+- Friday at 5:00pm
 
+This is likely when we should advertise the most, have limited unused bike supply, and avoid these times for repairs and fixes of the bikes.
+
+## Heatmap by Hour, Day, and Gender
+![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Heatmap_By_Hour%2BDay%2BGender.png)
+This image displays at what times/day and genders are most frequently using the services in NY. According to this data, the most busy usage times are from the male population and are during:
+- Thursdays at 8:00am and between 5:00pm-6:00pm
+- Monday & Tuesdays between 5:00pm-6:00pm
+- Friday at 5:00pm
+
+## Heatmap by User, Day, and Gender
+![Screenshot](https://github.com/Sborresch/Tableau/blob/main/Heatmap_By_User%2BDay%2BGender.png)
 
 # Summary
